@@ -10,11 +10,11 @@ and vice versa(where available).
 faiNumber also offers features for checking if strings is a valid integer
 of a variety of numbering system.
 
-One of faiNumber unique feature is that faiNumber can compare numerical
+One of faiNumber's unique features is that faiNumber can compare numerical
 strings of numbering system from 2 to 36 without length constraint.
 
-Although flexibility was never part of the design when faiNumber was first
-released for Java. Nonetheless, since the first release for Fortran,
+Flexibility was never a part of the design when faiNumber was first released
+for Java. Nonetheless, since the first release for Fortran,
 flexibility is now part of the design for faiNumber.
 
 ### Language Released For
